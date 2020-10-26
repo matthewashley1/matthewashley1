@@ -61,8 +61,6 @@ alt="matthewashley1"/> </p>
     &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=matthewashley1&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
         alt="Matthew Ashley's GitHub Stats"/>
-</p>
-<p>
     &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewashley1&layout=compact&langs_count=10&hide=makefile,cmake,java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
         alt="Matthew Ashley's Most Used Languages"/>
