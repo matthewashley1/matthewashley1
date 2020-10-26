@@ -71,6 +71,6 @@ alt="matthewashley1"/> </p>
 <p align="center">
     <a href="https://www.linkedin.com/in/matthew-ashley" target="blank">
         <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"
-            alt="LinkedIn" width="70" height="70"/>
+            alt="LinkedIn" width="50" height="50"/>
     </a>
 </p>
