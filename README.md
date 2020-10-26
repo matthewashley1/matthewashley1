@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 #
 
 <h1 align="center">Hi there
-    <img src="https://raw.githubusercontent.com/matthewashley1/matthewashley1/master/wave.gif"
+    <img src="https://raw.githubusercontent.com/matthewashley1/matthewashley1/main/wave.gif"
         alt="wave gif" width="30px" height="30">, I'm Matthew Ashley
-</h1>
+</h1
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewashley1"
 alt="matthewashley1"/> </p>
@@ -59,8 +59,13 @@ alt="matthewashley1"/> </p>
 
 <p>
     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=matthewashley1&show_icons=true&count_private=true"
-        alt="matthewashley1"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=matthewashley1&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+        alt="Matthew Ashley's GitHub Stats"/>
+</p>
+<p>
+    &nbsp;
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewashley1&layout=compact&langs_count=10&hide=makefile,cmake,java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+        alt="Matthew Ashley's Most Used Languages"/>
 </p>
 
 <br/>
