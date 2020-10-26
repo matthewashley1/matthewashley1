@@ -58,10 +58,10 @@ alt="matthewashley1"/> </p>
 <br/>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=matthewashley1&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=matthewashley1&show_icons=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&line_height=24"
         alt="Matthew Ashley's GitHub Stats"/>
     &nbsp;
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewashley1&layout=compact&langs_count=10&hide=makefile,cmake,java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=230"
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewashley1&layout=compact&langs_count=10&hide=makefile,cmake,java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=250"
         alt="Matthew Ashley's Most Used Languages"/>
 </p>
 
