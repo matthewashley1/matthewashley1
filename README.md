@@ -18,8 +18,9 @@ Here are some ideas to get you started:
         alt="wave gif" width="30px" height="30">, I'm Matthew Ashley
 </h1
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matthewashley1"
-alt="matthewashley1"/> </p>
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=matthewashley1" alt="matthewashley1"/>
+</p>
 
 <br/>
 
