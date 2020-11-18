@@ -39,7 +39,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/color/48/000000/kubernetes.png"
         alt="kubernetes" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"
-        alt="google cloud platform" widht="40" height="40"/>
+        alt="google cloud platform" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/firebase.png"
         alt="firebase" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/postgreesql.png"
@@ -53,7 +53,7 @@ Here are some ideas to get you started:
     <img src="https://img.icons8.com/color/48/000000/javascript.png"
         alt="javascript" width="40" height="40"/>
     <img src="https://img.icons8.com/color/48/000000/flutter.png"
-        alt="flutter" widht="40" height="40"/>
+        alt="flutter" width="40" height="40"/>
 </p>
 
 <br/>
