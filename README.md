@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 <br/>
 <br/>
 
-<p align="left" style="display: flex; flex-direction: row; gap: 10px;">
+<p align="left" style="display: flex; flex-direction: row; gap: 50px;">
     <img src="https://files.svgcdn.io/logos/aws.svg"
         alt="aws" width="40" height="40" />
     <img src="https://files.svgcdn.io/skill-icons/kubernetes.svg"
