@@ -24,36 +24,36 @@ Here are some ideas to get you started:
 
 <br/>
 
-- 💬  &nbsp;&nbsp; Ask me about **Flask, Python, Kotlin**
-
-- 📫  &nbsp;&nbsp; Reach me at **matthewashley@verntechnologies.com**
+- 📫 - How to reach me: **matthewashley@verntechnologies.com**
+- 💬 - Ask me about: *Anything you may have questions about*
+- 🔭 - I am currently working on:
+  - **For my job**: Building enterprize grade APIs - AWS, Kubernetes, Terraform, Kotlin, and Jenkins
+  - **Personal**: Kubernetes desktop client - [Tauri](https://tauri.app/), Rust, Tailwind, Svelte, Typescript, and Deno
 
 <br/>
 <br/>
 
-<p align="left">
-    <img src="https://img.icons8.com/color/48/000000/git.png"
-        alt="git" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/docker.png"
-        alt="docker" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/kubernetes.png"
-        alt="kubernetes" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/google-cloud-platform.png"
-        alt="google cloud platform" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/firebase.png"
-        alt="firebase" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/postgreesql.png"
-        alt="postgresql" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/redis.png"
-        alt="redis" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/python.png"
-        alt="python" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/kotlin.png"
-        alt="kotlin" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/javascript.png"
-        alt="javascript" width="40" height="40"/>
-    <img src="https://img.icons8.com/color/48/000000/flutter.png"
-        alt="flutter" width="40" height="40"/>
+<p align="left" style="display: flex; flex-direction: row; gap: 10px;">
+    <img src="https://files.svgcdn.io/logos/aws.svg"
+        alt="aws" width="40" height="40" />
+    <img src="https://files.svgcdn.io/skill-icons/kubernetes.svg"
+        alt="kubernetes" width="40" height="40" />  
+    <img src="https://files.svgcdn.io/devicon/terraform.svg"
+        alt="terraform" width="40" height="40" />
+    <img src="https://files.svgcdn.io/skill-icons/kotlin-light.svg"
+        alt="kotlin" width="40" height="40" />
+    <img src="https://files.svgcdn.io/logos/tauri.svg"
+        alt="tauri" width="40" height="40" />
+    <img src="https://files.svgcdn.io/skill-icons/rust.svg"
+        alt="rust" width="40" height="40" />
+    <img src="https://files.svgcdn.io/devicon/tailwindcss.svg"
+        alt="tailwindcss" width="40" height="40" />
+    <img src="https://files.svgcdn.io/skill-icons/svelte.svg"
+        alt="svelte" width="40" height="40" />
+    <img src="https://files.svgcdn.io/skill-icons/typescript.svg"
+        alt="typescript" width="40" height="40" />
+    <img src="https://files.svgcdn.io/logos/python.svg"
+        alt="python" width="40" height="40" />
 </p>
 
 <br/>
