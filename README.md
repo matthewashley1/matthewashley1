@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-- 📫 - How to reach me: **matthewashley@verntechnologies.com**
+- 📫 - How to reach me: **matthewashley@verntechnologies.com** or **[LinkedIn](https://www.linkedin.com/in/matthew-ashley)**
 - 💬 - Ask me about: *Anything you may have questions about*
 - 🔭 - I am currently working on:
   - **For my job**: Building enterprize grade APIs - AWS, Kubernetes, Terraform, Kotlin, and Jenkins
@@ -64,14 +64,4 @@ Here are some ideas to get you started:
     &nbsp;
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthewashley1&layout=compact&langs_count=10&hide=makefile,cmake,java&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&card_width=250"
         alt="Matthew Ashley's Most Used Languages"/>
-</p>
-
-<br/>
-<br/>
-
-<p align="center">
-    <a href="https://www.linkedin.com/in/matthew-ashley" target="blank">
-        <img src="https://files.svgcdn.io/skill-icons/linkedin.svg"
-            alt="LinkedIn" width="50" height="50"/>
-    </a>
 </p>
