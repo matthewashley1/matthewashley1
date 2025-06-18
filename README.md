@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 <p align="center">
     <a href="https://www.linkedin.com/in/matthew-ashley" target="blank">
-        <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"
+        <img src="https://files.svgcdn.io/skill-icons/linkedin.svg"
             alt="LinkedIn" width="50" height="50"/>
     </a>
 </p>
